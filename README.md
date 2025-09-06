@@ -2,6 +2,9 @@
 
 This is a web-based sticky notes application that allows users to create, view, and manage their notes. The project focuses on core web development concepts like **DOM manipulation**, **local storage**, and user interface design.
 
+**Main View**
+![Main view of the sticky notes app](f.jpg)
+
 ## Features
 
 ### User Interface (UI)
@@ -24,3 +27,11 @@ This is a web-based sticky notes application that allows users to create, view, 
     * All notes are stored in the browser's **local storage**.
     * The data is saved in a structured format, for example:
         `[{time: "3.2 PM", note: "This is my first note."}, {time: "3.5 PM", note: "Another note here."}, {}]`
+
+## Screenshots
+
+Here are some screenshots of the application in action.
+**Note in a Modal**
+![A modal view of a single note](ui1.png)
+![A modal view of a single note](ui2.png)
+![A modal view of a single note](ui3.png)
