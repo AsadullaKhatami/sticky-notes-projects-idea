@@ -1,3 +1,4 @@
+<html>
 <h1> sticy notes projects idea</h1>
 <ol order="1">
     <li>user interface<br>
@@ -33,3 +34,4 @@
         </ul>
     </li>
 </ol>
+</html>
